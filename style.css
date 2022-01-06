@@ -1,0 +1,97 @@
+body {
+  font-family: "Oswald", sans-serif;
+}
+.salmon {
+  color: salmon;
+}
+.flex-container {
+  display: flex;
+  margin-bottom: 50px;
+}
+.explore {
+  width: 50%;
+  padding: 20px;
+  border-left: 10px solid;
+  border-radius: 5px;
+  margin-bottom: 50px;
+}
+h1 {
+  font-size: 45px;
+}
+.image-size {
+  width: 50%;
+}
+.link {
+  text-decoration: none;
+  background-image: linear-gradient(pink, tomato);
+  padding: 10px 30px;
+  color: black;
+  font-weight: 800px;
+  border-radius: 10px;
+}
+.photo {
+  width: 50%;
+  margin: 0 auto;
+  display: block;
+  border-radius: 50%;
+  padding-top: 50px;
+}
+.photo-2 {
+  width: 60%;
+  margin: 0 auto;
+
+  display: block;
+}
+.center {
+  text-align: center;
+}
+footer {
+  background: black;
+  color: grey;
+  padding-bottom: 20px;
+  text-align-last: center;
+}
+#special-font {
+  font-family: cursive;
+  color: white;
+}
+.mission {
+  width: 400px;
+  text-align: justify;
+  padding: 20px;
+  margin-left: 3%;
+  margin-right: 3%;
+  box-shadow: 10px 10px 50px gray;
+  border-radius: 10px;
+  background: rgba(247, 117, 117, 0.411);
+  margin-bottom: 50px;
+}
+.vision {
+  width: 400px;
+  text-align: justify;
+  padding: 20px;
+  margin-left: 3%;
+  margin-right: 3%;
+  box-shadow: 10px 10px 50px gray;
+  border-radius: 10px;
+  background: rgb(218, 185, 201);
+  margin-bottom: 50px;
+}
+.goals {
+  width: 400px;
+  text-align: justify;
+  padding: 20px;
+  margin-left: 3%;
+  margin-right: 3%;
+  box-shadow: 10px 10px 50px gray;
+  border-radius: 10px;
+  background: khaki;
+  margin-bottom: 50px;
+}
+.devlop {
+  width: 50%;
+  padding: 10px;
+  margin-bottom: 50px;
+  border-right: 10px solid;
+  border-radius: 5px;
+}
